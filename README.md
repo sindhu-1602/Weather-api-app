@@ -1,2 +1,3 @@
-# Weather-api-app
-Open-source community project 
+# Weather App
+
+A simple weather app using OpenWeatherMap API.
